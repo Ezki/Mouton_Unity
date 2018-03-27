@@ -1,2 +1,2 @@
 # Mouton_Unity
-Le devoir de Unity
+A game prototype made for a school work with Unity3d. 
